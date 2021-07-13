@@ -1,5 +1,5 @@
 
-Anime Watch Script
+-Anime Watch Script-
 
 ## Server Requirements
 
