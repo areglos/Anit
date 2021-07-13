@@ -1,4 +1,4 @@
-Anime Script
+Anime / Manga Script
 
 ## Server Requirements
 
